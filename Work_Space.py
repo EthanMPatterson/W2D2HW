@@ -35,7 +35,7 @@ vowels = ['a' 'e' 'i' 'o' 'u' 'A' 'E' 'I' 'O' 'U']
 for x in range(len(inputstring)):
     if inputstring [x] in vowels:
         vcount += 1
-print("There are {count} vowels in your input word/phrase")
+print("There are {vcount} vowels in your input word/phrase")
 
 
 
